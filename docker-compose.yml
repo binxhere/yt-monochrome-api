@@ -1,0 +1,12 @@
+services:
+  yt-resolver:
+    build: .
+    container_name: monochrome-yt-resolver
+    ports:
+      - "3006:3006"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3006/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3

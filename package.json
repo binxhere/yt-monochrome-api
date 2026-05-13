@@ -1,0 +1,11 @@
+{
+  "name": "monochrome-yt-resolver",
+  "version": "1.0.0",
+  "description": "Portable YouTube Resolver for Monochrome",
+  "main": "youtube-server.js",
+  "scripts": {
+    "start": "bun youtube-server.js"
+  },
+  "author": "",
+  "license": "Apache-2.0"
+}
