@@ -17,3 +17,6 @@ WOW
 
 factoids (fact foids):
 1. tries to avoid official music vids and favours lyrics vids so it gets better audio syncing for lyrics (no promises lmao)
+2. runs on port 3006 so it doesnt interfere with other running apps (like monochrome)
+3. supports caching (i think)
+4. ~0.5-3.5s query times *such fast* (from my official server atleast)
