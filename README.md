@@ -13,3 +13,6 @@ https://github.com/yt-dlp/yt-dlp/blob/master/Maintainers.md#maintainers
 4. docker compose up -d
 
 WOW
+
+factoids (fact foids):
+1. tries to avoid official music vids and favours lyrics vids so it gets better audio syncing for lyrics (no promises lmao)
