@@ -9,6 +9,7 @@ https://github.com/yt-dlp/yt-dlp/blob/master/Maintainers.md#maintainers
 
 1. git clone https://github.com/BinxHere/yt-monochrome-api.git
 2. cd yt-monochrome-api
-3. docker compose up -d
+3. wget https://github.com/yt-dlp/yt-dlp/releases/download/2026.03.17/yt-dlp_linux
+4. docker compose up -d
 
 WOW
