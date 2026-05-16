@@ -13,7 +13,7 @@ https://github.com/yt-dlp/yt-dlp/blob/master/Maintainers.md#maintainers
 3. `wget https://github.com/yt-dlp/yt-dlp/releases/download/2026.03.17/yt-dlp_linux`
 4. `docker compose up -d`
 
-WOW
+*it is extremely important to do the 3rd step and get yt-dlp, i cant ship it with the project for both size and idk what license to use, but please just do it*
 
 factoids (fact foids):
 1. tries to avoid official music vids and favours lyrics vids so it gets better audio syncing for lyrics (no promises lmao)
